@@ -209,7 +209,7 @@ gulp.task('lint', function() {
 ### (PhantomJS) 
 [gulp-Jasmine-phantom](https://www.npmjs.com/package/gulp-jasmine-phantom)
 
-`install gulp-Jasmine-phantom`
+`npm install gulp-Jasmine-phantom`
 
 ```js
 /*eslint-env node */
